@@ -6,7 +6,7 @@ Listen to device orientation changes in React Native applications and programmat
 ## Installing
 
 ```
-npm install react-native-orientation --save
+npm install @zhangrh1101/react-native-orientation --save
 ```
 
 ## Linking Native Dependencies
@@ -14,7 +14,7 @@ npm install react-native-orientation --save
 ### Automatic Linking
 
 ```
-react-native link react-native-orientation
+react-native link @zhangrh1101/react-native-orientation
 ```
 
 Please note that you **still need to manually configure** a couple files even when using automatic linking. Please see the ['Configuration'](#configuration) section below. You will also **need to restart your simulator** before the package will work properly.
